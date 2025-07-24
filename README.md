@@ -2,7 +2,7 @@
 
 A comprehensive data analysis project that examines 20,000+ financial records to uncover insights about company financial health, identify trends, and build predictive models for strategic decision-making.
 
-## 📋 Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
 - [Dataset](#dataset)
@@ -36,7 +36,7 @@ This project provides an end-to-end financial analysis pipeline that helps busin
 - **Annual Aggregation**: Converts granular data into yearly summaries for strategic planning
 - **Statistical Analysis**: Distribution testing, outlier detection, and correlation analysis
 
-## 📊 Dataset
+## Dataset
 
 The analysis uses a financial dataset containing:
 - **20,000 records** of company financial data
@@ -51,7 +51,7 @@ The analysis uses a financial dataset containing:
 
 **Data Source**: [GitHub Repository](https://github.com/ShreyasDasari/Financial-Health-Analysis-For-a-Company/blob/main/Data/financial_health_analysis_dataset.csv)
 
-## 🛠️ Installation
+## Installation
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -223,6 +223,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [GitHub Profile](https://github.com/ShreyasDasari)
+Shreyas Dasari - [GitHub Profile](https://github.com/ShreyasDasari)
 
 Project Link: [https://github.com/ShreyasDasari/Financial-Health-Analysis-For-a-Company](https://github.com/ShreyasDasari/Financial-Health-Analysis-For-a-Company)
